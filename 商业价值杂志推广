@@ -1,0 +1,297 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>商业价值 iPhone/Android 客户端</title>
+	<link rel="stylesheet" type="text/css" href="public/css/bootstrap.min.css">
+	<style type="text/css">
+	/* Client-specific Styles */
+	#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+	body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+	body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+	
+	/* Reset Styles */
+	body{margin:0; padding:0;font-size:14px;color:#363636;}
+	img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+	table td{border-collapse:collapse;font-size:16px;color:#363636;}
+	</style>
+	<script src="public/js/jquery.js"></script>
+</head>
+<body bgcolor="#f7f7f7">
+
+	<div style="margin:0;padding:0;background-color:#fff;font-family:'Microsoft YaHei',Arial,sans-serif,宋体;width:100%!important">
+		<center>
+			<table id="body" width="660" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td colspan="3" class="editable">
+						<a href="#"><img class="changeable" src="http://www.businessvalue.com.cn/edm/images/iA_header.png" id="banner" width="660" height="128" alt="商业价值 iPhone/Android 客户端新版发布科技改变商业，创新赢得未来" /></a>
+					</td>
+				</tr>
+				<tr> 
+					<td colspan="3" align="left" style="padding:24px 0 24px 20px;" class="editable">
+						亲爱的商业价值用户: 
+					</td>
+				</tr>
+				<tr> 
+					<td colspan="3" align="left" style="padding:0 0 24px 20px;line-height:32px;" class="editable">
+					《商业价值》杂志一直致力于做中国最好的技术商业杂志，为变革者提供更多价值。作为变革者的一份子，我们在移动客户端上也敢于做不一样的尝试。
+				  </td>
+				</tr>
+				<tr> 
+					<td colspan="3" align="left" style="padding:0 0 24px 20px;line-height:32px;" class="editable">
+	          现在，商业价值移动客户端全新版本已火热上线，除了保留原有功能外，还在内容和功能上做了很多新尝试。欢迎下载体验。
+				  </td>
+			  </tr>
+				<tr>
+					<td colspan="3" align="left" style="padding: 0 0 20px 20px;" class="editable">
+						<div style="font-size:15px; line-height:32px; height:32px; color:#313131;">本次客户端版本更新做了重大改动：</div>
+						<ul style="color:#313131; line-height: 38px; list-style: disc inside none; padding:0 120px 0 0;text-align: left;">
+							<li style="border-bottom:1px dashed #C4C3C3;padding:0 0 0 4px;line-height:38px;">随时随地阅读《商业价值》杂志深度文章，全新的深度阅读体验</li>
+							<li style="border-bottom:1px dashed #C4C3C3;padding:0 0 0 4px;line-height:38px;">由《商业价值》精心挑选的、每日更新的商业要闻</li>
+							<li style="border-bottom:1px dashed #C4C3C3;padding:0 0 0 4px;line-height:38px;">用短信、邮件、微博等多种方式分享文章或文章片段</li>
+							<li style="border-bottom:1px dashed #C4C3C3;padding:0 0 0 4px;line-height:38px;">方便易用的内容评论，直接与其它评论者及文章作者深度交流</li>
+							<li style="border-bottom:1px dashed #C4C3C3;padding:0 0 0 4px;line-height:38px;">分享文章或参与客户端里的活动将获得积分，并能兑换相应的礼品</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="3" align="left" style="border-top:1px solid #ccc;padding:35px 0 0 20px;line-height:24px;" class="editable">
+						为了庆祝《商业价值》杂志3周年以及新版客户端上线，我们正在客户端里进行 iPhone 5 抽奖活动，欢迎您下载客户端并参与。
+					</td>
+				</tr>
+            <tr style="padding-bottom:10px;">
+                <td class="editable" align="center" style="padding:15px 0 15px 0;">
+                    <img src="http://www.businessvalue.com.cn/edm/images/iPhone.png" width="120" height="120" alt="商业价值二维码 for iPhone" title="商业价值二维码 for iPhone" />
+                    <a title="商业价值 for iPhone" target="_blank" href="http://itunes.apple.com/cn/app/id388097988?mt=8"><img src="http://www.businessvalue.com.cn/edm/images/iA_iphone.png" width="240" height="56" alt="商业价值 for iPhone" title="商业价值 for iPhone" style="padding-top:9px"/></a>
+                </td>
+                <td class="editable" align="center" style="padding:15px 0 15px 0;">
+                    <img src="http://www.businessvalue.com.cn/edm/images/android.png" width="120" height="120" alt="商业价值二维码 for Android" title="商业价值二维码 for Android" />
+                    <a title="商业价值 for Android" target="_blank" href="http://www.businessvalue.com.cn/apps/BusinessValue_BusinessValue.apk"><img src="http://www.businessvalue.com.cn/edm/images/APK.png" width="240" height="56" alt="商业价值 for Android"  title="商业价值 for Android" style="padding-top:9px"/></a>
+            </tr>
+				<tr>
+					<td colspan="3" style="line-height:26px; padding:0 0 20px 20px;text-align: left;" class="editable">
+						如果点击下载按钮无效，请复制以下网址并粘贴到浏览器地址栏中打开：<br/>
+						<a style="color: #447aab;text-decoration:none" target="_blank" title="商业价值移动客户端" href="http://www.businessvalue.com.cn/mobile">http://www.businessvalue.com.cn/mobile</a>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="3" class="editable">
+						<ul style="color:#313131;border-top:1px solid #ccc;margin:0 0 0 0;line-height:34px; list-style:none; padding:5px 0 5px 20px;text-align: left;">
+							<li style="line-height:34px;">联系我们</li>
+							<li style="line-height:34px;">电话：010-85711956   </li>
+							<li style="line-height:34px;">邮箱：<a target="_blank" style="color: #447aab;text-decoration:none" href="mailto:editor@windmaker.com.cn">editor@windmaker.com.cn</a> </li>
+							<li style="line-height:34px;">网站：<a target="_blank" style="color: #447aab;text-decoration:none" href="http://www.businessvalue.com.cn/mobile">businessvalue.com.cn/mobile</a>		 </li>    
+							<li style="line-height:34px;">新浪微博：<a target="_blank" style="color: #447aab;text-decoration:none" href="http://e.weibo.com/businessvalue?ref=http%3A%2F%2Fbusinessvalue.com.cn%2F">@商业价值杂志</a></li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="3" style="font-size:12px;text-align:center;border-top:1px solid #ccc;padding:40px 0 40px 0;margin:30px 0 0 0;color:#717171" class="editable">
+						Copyright © 2009 - 2012 《商业价值》杂志
+					</td>
+				</tr>
+			</table>
+		</center>
+	</div>
+
+    <script>
+        var editable = $('.editable'),
+            editor = '<div id="editor" style="position: fixed; top:0; left:0; background-color:#AAAAAA;z-index:1000; width:300px;height:100%;"></div>',
+            logo = '<a style="display:block; background:url(public/img/logo.png); width:300px; height:64px;">&nbsp;</a>',
+            imgSetter = '<div style="width:660px;"><form class="well form-inline"><input type="text" class="src input-small" style="margin-right:10px" placeholder="图片地址" /><input type="text" class="url input-small" style="margin-right:10px" placeholder="图片外链" /><input type="text" class="alt input-small" style="margin-right:170px" placeholder="替代文本" /><input class="btn btn-info" type="button" id="bannerButton" value="设置banner" /></form></div>',
+            urlSetter = '<div style="margin:10px 0 0 30px;"><p style="padding:0 auto"><label style="color:black; font-family: Microsoft Yahei; font-size:12px;">链接生成</p><input type="text" class="name" placeholder="链接文本" /><input type="text" class="targetUrl" placeholder="链接地址 以http://开头" /></div><div style="margin-top:5px;padding:10px 30px;"><a href="" class="result" target="_blank" style="font-size: 13px;background:none;">文本</a></div>',
+            saveButton = '<div style="margin:10px 30px 0 30px;text-align:center;"><label style="color:white; font-family: Microsoft Yahei; font-size:14px;">请保存</label><div class="btn-group"><input class="btn btn-info" type="button" id="saveButton" value="保存" /><input class="btn btn-info" type="button" id="generateButton" value="生成" /><input class="btn btn-info" type="button" id="returnButton" value="返回" /></div></div>',
+            appendContent = '<div id="button"><div class="btn-group" style="margin-left:5px"><input class="btn btn-info" type="button" id="appendCnt" value="添加正文" /><input class="btn btn-info" type="button" id="appendSubcnt" value="添加副文本" /></div><div class="btn-group"><input class="btn btn-info" type="button" id="appendList" value="添加列表" /><input class="btn btn-info" type="button" id="appendSpace" value="添加分隔" /></div><div class="btn-group" style="margin-left:5px"><input class="btn" type="button" id="cfmApp" value="取消" /><input class="btn btn-danger" type="button" id="remove" value="移除" /></div></div>',
+            List = '<tr><td colspan="3" align="left" style="padding: 0 0 20px 20px;" class="editable" contenteditable="true"><div style="font-size:15px; line-height:32px; height:32px; color:#313131;">本次客户端版本更新做了重大改动：</div><ul style="color:#313131; line-height: 38px; list-style: disc inside none; padding:0 120px 0 0;text-align: left;"><li style="border-bottom:1px dashed #C4C3C3;padding:0 0 0 4px;line-height:38px;"></li><li style="border-bottom:1px dashed #C4C3C3;padding:0 0 0 4px;line-height:38px;"></li></ul></td></tr>',
+            imgList = '<ul id="imgList" style="list-style: none;border-top: 1px solid #ccc; border-bottom: 1px solid #ccc;margin: 10px 0; padding:8px 30px;"></ul>',
+            Space = '<tr"><td colspan="3" height="20px" align="center" class="editable" contenteditable="true"></td></tr>',
+            Cnt = '<tr><td colspan="3" align="left" style="padding:0 0 24px 20px;line-height:32px;" class="editable" contenteditable="true">&nbsp;</td></tr>',
+            Subcnt = '<tr><td colspan="3" align="left" style="padding:10px 0 5px 20px;line-height:24px;" class="editable" contenteditable="true">&nbsp;</td></tr>'
+            
+
+        //文本可编辑
+        $('body').attr("contenteditable","false");
+        editable.attr("contenteditable","true");
+
+        //添加按钮功能
+        function appendItem(index,n) {
+            $("#append"+index).bind ("click",function(){
+                $("#cfmApp").parent().parent().after(n).next().children().first().trigger("click").focus().prev().remove();
+            });
+        };
+
+        //增加按钮选项
+        $("td.editable").live("click",function(){
+            if($("#remove").length) {$("#remove").parent().parent().remove();}
+            if($(this).val() == "&nbsp;") {$(this).val() = "";}
+            that = $(this);
+            that.closest("tr").after(appendContent);
+            //设置按钮位置
+            $("#button").css({"position":"fixed","right":"0","bottom":"60px","width":"200px"});
+                
+            appendItem('List',List);
+            appendItem('Space',Space);
+            appendItem('Cnt',Cnt);
+            appendItem('Subcnt',Subcnt);
+
+
+            $("#cfmApp").bind("click",function(){
+                $(this).parent().parent().remove();
+            });
+            $("#remove").bind("click",function(){
+                that.closest("tr").remove();
+                $(this).parent().parent().remove();              
+            });            
+        }).live("focus",function(){
+            $(this).parent().children().css("outline","1px solid #3D99B4");
+        }).live("blur",function(){
+            $(this).parent().children().css("outline","");
+        });
+
+        //增加图片按钮
+        $("a").live("click",function(event){
+            event.preventDefault();
+        });
+
+        $(".changeable").live("click",function(){
+            if($("#bannerButton").length) {$("#bannerButton").parent().remove();}
+            $(this).closest("tr").after(imgSetter);
+            var _src1 = $(this).attr("src");
+            var _alt1 = $(this).attr("alt");
+            if ($(this).closest("a").length) {
+                var _url1 = $(this).closest("a").attr("href");
+            }
+
+            $(".src").val(_src1);
+            $(".alt").val(_alt1);
+            $(".url").val(_url1);
+        })
+
+        function setImg(objId,src,alt,url) {
+            $('img#'+objId).attr("src",src).attr("alt",alt).parent().attr("href",url);
+        }
+
+        $("#bannerButton").live("click",function () {
+            var _src = $('.src').val();
+            var _url = $('.url').val();
+            var _alt = $('.alt').val();
+            setImg('banner',_src,_alt,_url);
+            $(this).parent().parent().remove();
+        });
+
+
+        //初始化
+        var button = logo + urlSetter + imgList + saveButton;
+        function initUI(button) {
+            $('body').append($(editor));
+            $('#editor').append(button);
+        };
+
+        initUI(button);
+
+        //链接生成
+        function setUrl(){
+            $("td .result").removeClass("result");
+            if($(".name").val()!="" && $(".targetUrl").val()!="") {
+                var _cnt = $(".name").val();
+                var _tgt = $(".targetUrl").val();
+                $(".result").attr("href",_tgt);
+                $(".result").html(_cnt);
+            }
+        };
+
+        $(".name").blur(function(){
+            setUrl();
+        })
+        $(".targetUrl").blur(function(){
+            setUrl();
+        })
+        
+
+        //设置页面title
+        function setTitle(text) {
+            document.title = text;
+        };
+            
+
+        function removeTag (obj) {
+            obj.find('td.editable').unbind();
+            obj.find('.editable').removeAttr("contenteditable");
+            obj.find('body').removeAttr("contenteditable");
+            obj.find('.editable').removeAttr("class");
+            obj.find('#editor').remove();
+            obj.find("link,script,input,label").remove();
+        }
+
+
+       //返回全部代码
+        function makeAll() {
+            var _pageAll = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN""http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml">' + $('html').html() + '</html>';
+            return _pageAll;
+        };
+
+        //返回生成代码
+        function makePure() {
+            setTitle($('.title').text());
+            var $pure = $("html").clone(true);
+            removeTag($pure);
+            var _pagePure = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN""http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml">' + $pure.html() + '</html>';
+            return _pagePure;
+        }
+
+        // 以下是公用按钮功能
+
+
+        id = document.URL.split('/');
+        id = id[id.length-1];
+
+
+        $("#saveButton").live("click",function() {
+          setTitle($('.title').text());
+          // removeTag();
+          postAll(id, makeAll());
+        });
+
+        $("#generateButton").live("click",function() {
+          setTitle($('.title').text());
+          // removeTag();
+          postPure(id, makePure());
+        });
+
+        loadImg(id,$('#imgList'));
+
+        $('#returnButton').live('click', function() {
+          window.location.href="/projects/projects_list";
+        });
+
+        function postAll(id, content) {
+          jQuery.post('/ajax/edit_source/', {
+            id: id,
+            content: content
+          }, function(data, textStatus, xhr) {});
+        }
+
+        function postPure(id, content) {
+          jQuery.post('/ajax/export_source/', {
+            id: id,
+            content: content
+          }, function(data, textStatus, xhr) {});
+        }
+        function loadImg(id, $obj) {
+          jQuery.getJSON('/ajax/get_project_images/', {
+            id: id
+          }, function(data, textStatus) {
+            if(data.success) {
+
+              for(var i in data.data){
+                $obj.append('<li><img style="display:block;width:220px; height:60px; padding:4px 0px;" src="'+data.data[i]+'" /><input value="'+data.data[i]+'"/></li>');
+              }
+            }
+          });
+        };
+
+    </script>
+
+
+</body>
+</html>
